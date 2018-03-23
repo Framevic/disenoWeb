@@ -5,6 +5,7 @@
     <title> NuestrosServicios</title>
   </head>
   <body>
+<<<<<<< HEAD
     <p id="titulo"> <strong>Nuestros servicios</strong> </p>
     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur sed
       ornare mi, non mattis ipsum. Aliquam erat volutpat. Donec et vulputate
@@ -203,5 +204,22 @@
     Al final de la página web añade un enlace que permita ir a la parte <br>
     superior de la página.
     <p></p>
+=======
+    <p>NuestrosServicios.html: <br>
+      Desde https://es.lipsum.com/ copia y pega 20 párrafos. Cada 2 <br>
+      párrafos pon una cabecera que indique un servicio que ofrece tu <br>
+      empresa (fotocopias, plastificado, venta de material de papelería, <br>
+      impresión de planos, maquetación de libros…. ) <br>
+      Añadir una zona de navegación (&lt;nav&gt;) con estos enlaces como <br>
+      mínimo: <br>
+      - A nosotros.html <br>
+      - A index.html <br>
+      - A tu repositorio. <br>
+      - A un correo electrónico <br>
+      - Al final de la página web. <br>
+      Al final de la página web añade un enlace que permita ir a la parte <br>
+      superior de la página. </p>
+    
+>>>>>>> 39981b6e693c3c3bbd5ad7ec114480fa6a248685
   </body>
 </html>
