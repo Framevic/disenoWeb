@@ -6,11 +6,11 @@
   </head>
   <body>
     <p> <strong>Paneles solares Paco</strong></p>
-    <nav> <a href=ejercicios tema2/Nosotros.html>Quienes
-        somos</a> 
-    <a href=ejercicios tema2/NuestrosServicios.html>Nuestros
-        servicios</a> 
-      <a href="https://es.wikipedia.org/wiki/Panel_fotovoltaico">Qué
-        hacemos</a> </nav>
+    <nav> <a href="ejercicios" tema2="" nosotros.html="">Quienes somos</a> <a
+
+        href="ejercicios" tema2="" nuestrosservicios.html="">Nuestros servicios</a>
+      <a href="https://es.wikipedia.org/wiki/Panel_fotovoltaico">Qué hacemos</a>
+    </nav>
+    
   </body>
 </html>
