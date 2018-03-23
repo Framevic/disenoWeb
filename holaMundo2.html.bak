@@ -4,10 +4,12 @@
     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
     <title>Hola mundo</title>
   </head>
-  <body onclick="alert('quita tus..')" style=" background-color: #aaaaaa;">
+  <body style="   background-color: #aaaaaa;">
     <p id="titulo" title="!esto" es="" una="" prueba=""> Hola <strong>mundo</strong>
     </p>
-    <p class="definición"> En informática, un programa Hola mundo es el que
+    <p onclick="alert('quita tus..')" *comentario="prueba de css" comentario*=""
+
+      ""class="definición"> En informática, un programa Hola mundo es el que
       imprime el texto «¡Hola, mundo!» en un dispositivo de visualización, en la
       mayoría de los casos una pantalla de monitor. Este programa suele ser
       usado como introducción al estudio de un lenguaje de programación, siendo
