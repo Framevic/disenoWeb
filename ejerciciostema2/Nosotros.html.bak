@@ -6,17 +6,12 @@
     <title> Nosotros </title>
     <p><strong>Nosotros</strong></p>
     <p>Nombre del autor: <strong>Marcos Falcó</strong></p>
-    <p> <img src="../imagenes/autor.jpg"/>
-		 </p>
+    <p> <img src="../imagenes/autor.jpg"> </p>
     <p>Nombre de empresa(ficticia):<strong>Paneles Solares Paco</strong></p>
     <p>Actividad de la empresa: <strong>Energía Solar</strong></p>
-    <p><img src="../imagenes/logo.jpg"/>
-		</p>
-    <nav> 
-      <a href="nuestroservicios.html">Nuestros Servicios</a>
-      <a href="../index.html">Inicio></a>
-     	<a href=“https://github.com/Framevic/disenoWeb/”>Repositorio</a> 
-      <a href=”mailto:marcos.falco@ua.es”>Contacto</a>
-      </nav>
+    <p><img src="../imagenes/logo.jpg"> </p>
+    <nav> <a href="nuestrosservicios.html">Nuestros Servicios</a> <a href="../index.html">Inicio&gt;</a>
+      <a href="https://github.com/Framevic/disenoWeb">Repositorio</a> <a href="mailto:marcos.falco@ua.es">Contacto</a>
+    </nav>
   </body>
 </html>
